@@ -1,0 +1,19 @@
+.OddNum {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#ElTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+#ElThree {
+    font-size: 24px;
+}
+
+#ElFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
